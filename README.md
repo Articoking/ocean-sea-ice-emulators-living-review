@@ -2,7 +2,9 @@
 # A Living Review: Machine-Learning-Based Emulators for Ocean and Sea Ice Modelling and Prediction
 
 ## Scope & Context
-This repository hosts a **living review** of machine-learning-based emulators for ocean and sea ice systems. The goal is to provide a curated, up-to-date list of peer-reviewed and preprint publications that advance the use of machine learning in emulating oceanic and sea ice dynamics from operational forecasts to climate modelling. The review is a priori restricted to emulators that can be run autoregressively.  
+This repository hosts a **living review** of machine-learning-based emulators for ocean and sea ice systems. The goal is to provide a curated, up-to-date list of peer-reviewed and preprint publications that advance the use of machine learning in emulating oceanic and sea ice dynamics from operational forecasts to climate modelling. 
+
+The review is a priori restricted to machine learning based emulators that can be run autoregressively, whether trained from obseravtions, reranalysis or physics-based numerical models.  
 
 The review, which was initiated during the preparation of review article for ARMS in 2026, is community-driven and open to contributions.
 
@@ -28,16 +30,24 @@ We welcome contributions! To add a new reference or suggest an update:
 
 ---
 
-## Ocean Emulators
+## Review articles, benchmarks and datasets
+
 
 | Year | Title                                                                                     | Publication         | Paper                                                                 |
 |------|-------------------------------------------------------------------------------------------|---------------------|----------------------------------------------------------------------|
-| 2025 | Data-driven Global Ocean Modeling for Seasonal to Decadal Prediction                       | arXiv preprint     | [doi](https://doi.org/10.48550/arXiv.2405.15412)                     |
-| 2024 | AI-GOMS: Large AI-Driven Global Ocean Modeling System                                      | arXiv preprint     | [doi](https://doi.org/10.48550/arXiv.2308.03152)                     |
+| 2025 | OceanBench: A Benchmark for Data-Driven Global Ocean Forecasting systems                  | NeurIPS paper       | [link](https://openreview.net/forum?id=wZGe1Kqs8G)                     |
+
+
+## Autoregressive Emulators for ocean dynamics
+
+| Year | Title                                                                                     | Publication         | Paper                                                                 |
+|------|-------------------------------------------------------------------------------------------|---------------------|----------------------------------------------------------------------|
+| 2025 | Data-driven Global Ocean Modeling for Seasonal to Decadal Prediction                      | arXiv preprint     | [doi](https://doi.org/10.48550/arXiv.2405.15412)                     |
+| 2024 | AI-GOMS: Large AI-Driven Global Ocean Modeling System                                     | arXiv preprint     | [doi](https://doi.org/10.48550/arXiv.2308.03152)                     |
 
 ---
 
-## Sea Ice Emulators
+## Autoregressive Emulators for Sea Ice dynamics
 
 | Year | Title                                                                                     | Publication         | Paper                                                                 |
 |------|-------------------------------------------------------------------------------------------|---------------------|------------------------------------------------------------------------|
