@@ -8,13 +8,6 @@ The review is a priori restricted to machine learning based emulators that can b
 
 The review, which was initiated during the preparation of review article for ARMS in 2026, is community-driven and open to contributions.
 
----
-
-**⚠️ Under Construction**
-This repository is currently being set up. The content and structure are subject to change as we finalize the review process and contribution guidelines. Check back soon for updates!
-
----
-
 ## How to Cite
 If you use this review in your work, please cite it as:
 > [Durand and Le Sommer]. (2026). *Living Review: Machine-Learning-Based Emulators for Ocean and Sea Ice Modelling and Prediction* (Version 1.0). Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18851354.svg)](https://doi.org/10.5281/zenodo.18851354)
@@ -40,18 +33,51 @@ We welcome contributions! To add a new reference or suggest an update:
 
 ## Autoregressive emulators for ocean dynamics
 
-| Year | Title                                                                                     | Publication         | Paper                                                                 |
-|------|-------------------------------------------------------------------------------------------|---------------------|----------------------------------------------------------------------|
-| 2025 | Data-driven Global Ocean Modeling for Seasonal to Decadal Prediction                      | arXiv preprint     | [doi](https://doi.org/10.48550/arXiv.2405.15412)                     |
-| 2024 | AI-GOMS: Large AI-Driven Global Ocean Modeling System                                     | arXiv preprint     | [doi](https://doi.org/10.48550/arXiv.2308.03152)                     |
+| Year | Title                                                                                     | Publication                       | Paper                                                                 |
+|------|-------------------------------------------------------------------------------------------|-----------------------------------|----------------------------------------------------------------------|
+| 2025 | Data-driven Global Ocean Modeling for Seasonal to Decadal Prediction                      | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2405.15412)                     |
+| 2024 | AI-GOMS: Large AI-Driven Global Ocean Modeling System                                     | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2308.03152)                     |
+| 2025 | Forecasting the eddying ocean with a deep neural network                                  | Nature Communications             | [doi](https://doi.org/10.1038/s41467-025-57389-2)                    |
+| 2025 | Samudra: An AI Global Ocean Emulator for Climate                                          | GRL                               | [doi](https://doi.org/10.1029/2024GL114318)                          |
+| 2025 | SamudrACE: Fast and Accurate Coupled Climate Modeling with 3D Ocean and Atmosphere Emulators | arXiv preprint                 | [doi](https://doi.org/10.48550/arXiv.2509.12490)                     |
+| 2025 | GLONET: Mercator's End-to-End Neural Global Ocean Forecasting System                      | Machine Learning and Computation  | [doi](https://doi.org/10.1029/2025JH000686)                          |
+| 2025 | NeuralOM: Neural Ocean Model for Subseasonal-to-Seasonal Simulation                       | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2505.21020)                     |
+| 2025 | Accurate Mediterranean Sea forecasting via graph-based deep learning                      | Nature Scientific Reports         | [doi](https://doi.org/10.1038/s41598-025-31177-w)                    |
+| 2025 | FuXi-Ocean: A Global Ocean Forecasting System with Sub-Daily Resolution                   | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2506.03210)                     |
+| 2025 | AI performs on high-resolution three-dimensional ocean temperature forecasting: remote sensing data-driven becomes a new possibility | International Journal of Digital Earth | [doi](https://doi.org/10.1080/17538947.2025.2595786) |
+| 2025 | Data-driven global ocean model resolving ocean-atmosphere coupling dynamics               | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2508.10908)                     |
+| 2024 | XiHe: A Data-Driven Model for Global Ocean Eddy-Resolving Forecasting                     | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2402.02995)                     |
+| 2024 | Coupled Ocean-Atmosphere Dynamics in a Machine Learning Earth System Model                | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2406.08632)                     |
+| 2025 | Advanced Long-term Earth System Forecasting                                               | arXiv preprint                    | [doi](https://doi.org/10.48550/arXiv.2505.19432)                     |
 
----
+
+
+
+## Autoregressive emulators for ocean surface properties
+| Year | Title                                                                                     | Publication                       | Paper                                                                 |
+|------|-------------------------------------------------------------------------------------------|-----------------------------------|----------------------------------------------------------------------|
+| 2018 | A machine learning framework to forecast wave conditions                                  | Coastal Engineering               | [doi](https://doi.org/10.1016/j.coastaleng.2018.03.004)
+| 2025 | Ocean Wave Forecasting With Deep Learning as Alternative to Conventional Models           | JAMES                             | [doi](https://doi.org/10.1029/2025MS005285)                    |
+| 2025 | Learning Propagators for Sea Surface Height Forecasts Using Koopman Autoencoders          | GRL                               | [doi](https://doi.org/10.1029/2024GL112835)                    |
+| 2025 | Long-Term Predictions of Loop Current Eddy Evolutions Using OceanNet: A Fourier Neural Operator–Based Data-Driven Ocean Emulator | Artificial Intelligence for the Earth Systems | [doi](https://doi.org/10.1175/AIES-D-24-0039.1)|
+
+
+
+ 
+
+
+--- 
 
 ## Autoregressive emulators for sea-ice dynamics
 
 | Year | Title                                                                                     | Publication         | Paper                                                                 |
 |------|-------------------------------------------------------------------------------------------|---------------------|------------------------------------------------------------------------|
+| 2021 | Seasonal Arctic sea ice forecasting with probabilistic deep learning                      | Nature Communications | [doi](https://doi.org/10.1038/s41467-021-25257-4)                  |
+| 2024 | Data-driven surrogate modeling of high-resolution sea-ice thickness in the Arctic         | The Cryosphere      | [doi](https://doi.org/10.5194/tc-18-1791-2024)                       |
 | 2025 | Generative AI models capture realistic sea-ice evolution from days to decades             | arXiv preprint      | [doi](https://doi.org/10.48550/arXiv.2508.14984)                     |
+| 2025 | Generative Diffusion for Regional Surrogate Models From Sea-Ice Simulations               | JAMES               | [doi](https://doi.org/10.1029/2024MS004395)                          |
+| 2026 | Sea Ice Edge Constraint Improves Antarctic Sea Ice Seasonal Prediction in Deep Learning Models | Advances in Atmospheric Sciences | [doi](https://doi.org/10.1007/s00376-025-5024-2)
+
 
 ---
 
