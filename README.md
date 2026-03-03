@@ -17,7 +17,7 @@ This repository is currently being set up. The content and structure are subject
 
 ## How to Cite
 If you use this review in your work, please cite it as:
-> [Durand and Le Sommer]. (2026). *Living Review: Machine-Learning-Based Emulators for Ocean and Sea Ice Modelling and Prediction* (Version X.X). Zenodo. [![DOI](https://zenodo.org/badge/DOI/XX.XXXX/your-doi-here.svg)](https://doi.org/XX.XXXX/your-doi-here)
+> [Durand and Le Sommer]. (2026). *Living Review: Machine-Learning-Based Emulators for Ocean and Sea Ice Modelling and Prediction* (Version 1.0). Zenodo. [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18851354.svg)](https://doi.org/10.5281/zenodo.18851354)
 
 ---
 
