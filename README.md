@@ -8,13 +8,6 @@ The review is a priori restricted to machine learning based emulators that can b
 
 The review, which was initiated during the preparation of review article for ARMS in 2026, is community-driven and open to contributions.
 
----
-
-**⚠️ Under Construction**
-This repository is currently being set up. The content and structure are subject to change as we finalize the review process and contribution guidelines. Check back soon for updates!
-
----
-
 ## How to Cite
 If you use this review in your work, please cite it as:
 > [Durand and Le Sommer]. (2026). *Living Review: Machine-Learning-Based Emulators for Ocean and Sea Ice Modelling and Prediction* (Version X.X). Zenodo. [![DOI](https://zenodo.org/badge/DOI/XX.XXXX/your-doi-here.svg)](https://doi.org/XX.XXXX/your-doi-here)
@@ -63,7 +56,11 @@ We welcome contributions! To add a new reference or suggest an update:
 ## Autoregressive emulators for ocean surface properties
 | Year | Title                                                                                     | Publication                       | Paper                                                                 |
 |------|-------------------------------------------------------------------------------------------|-----------------------------------|----------------------------------------------------------------------|
-| 2025 | Ocean Wave Forecasting With Deep Learning as Alternative to Conventional Models           | JAMES                             | [doi](https://doi.org/10.1029/2025MS005285)                          |
+| 2018 | A machine learning framework to forecast wave conditions                                  | Coastal Engineering               | [doi](https://doi.org/10.1016/j.coastaleng.2018.03.004)
+| 2025 | Ocean Wave Forecasting With Deep Learning as Alternative to Conventional Models           | JAMES                             | [doi](https://doi.org/10.1029/2025MS005285)                    |
+| 2025 | Learning Propagators for Sea Surface Height Forecasts Using Koopman Autoencoders          | GRL                               | [doi](https://doi.org/10.1029/2024GL112835)                    |
+| 2025 | Long-Term Predictions of Loop Current Eddy Evolutions Using OceanNet: A Fourier Neural Operator–Based Data-Driven Ocean Emulator | Artificial Intelligence for the Earth Systems | [doi](https://doi.org/10.1175/AIES-D-24-0039.1)|
+
 
 
  
@@ -79,6 +76,7 @@ We welcome contributions! To add a new reference or suggest an update:
 | 2024 | Data-driven surrogate modeling of high-resolution sea-ice thickness in the Arctic         | The Cryosphere      | [doi](https://doi.org/10.5194/tc-18-1791-2024)                       |
 | 2025 | Generative AI models capture realistic sea-ice evolution from days to decades             | arXiv preprint      | [doi](https://doi.org/10.48550/arXiv.2508.14984)                     |
 | 2025 | Generative Diffusion for Regional Surrogate Models From Sea-Ice Simulations               | JAMES               | [doi](https://doi.org/10.1029/2024MS004395)                          |
+| 2026 | Sea Ice Edge Constraint Improves Antarctic Sea Ice Seasonal Prediction in Deep Learning Models | Advances in Atmospheric Sciences | [doi](https://doi.org/10.1007/s00376-025-5024-2)
 
 
 ---
